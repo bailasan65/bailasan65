@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @bailasan65
-
-
-
 # Hi there! 👋
 
 Welcome to my GitHub profile! 
