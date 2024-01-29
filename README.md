@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 - **Python**: Experienced in Python programming language for various applications including web development and automation.
 - **Flask**: Familiar with Flask framework for building web applications and APIs.
 
-## Projects
+## End to End Project:
 
 This project is an end-to-end solution for weather forecasting. It incorporates a mobile app for user interaction, a Flask-based backend for serving API requests, and a machine learning model for predicting weather conditions.
 
