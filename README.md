@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 Welcome to my GitHub profile! 
-- 👋 Hi, I'm Bailasan Zakarneh, a passionate computer engineer .
+- 👋 Hi, I'm Bailasan Zakarneh, a computer engineer .
 - 👀 I’m interested in mobile development to data analysis and data science.
 - 🌱 I’m currently learning Flutter and Data Science.
 - 📫 You can contact me at bailasanzakarneh@gmail.com
